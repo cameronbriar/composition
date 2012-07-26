@@ -1,4 +1,1 @@
-composition
-===========
-
-a thing composed of various elements
+the way it's put together
