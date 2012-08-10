@@ -1,0 +1,1 @@
+$(".song").each(function(){console.log($(this).find(".titlediv").html()+" by "+$(this).find(".details").html());});
